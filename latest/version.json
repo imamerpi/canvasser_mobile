@@ -1,0 +1,15 @@
+{
+  "version": "1.0.2",
+  "latest_version": "1.0.2",
+  "min_version": "1.0.0",
+  "min_supported_version": "1.0.0",
+  "apk_url": "https://github.com/imamerpi/canvasser_mobile/releases/latest",
+  "url": "https://github.com/imamerpi/canvasser_mobile/releases/latest",
+  "force_update": false,
+  "force": false,
+  "changelog": [
+    "Peningkatan stabilitas aplikasi dan performa UI",
+    "Fitur Periksa Update manual dari halaman Akun",
+    "Dukungan mode gelap yang dapat mengikuti pengaturan sistem"
+  ]
+}
