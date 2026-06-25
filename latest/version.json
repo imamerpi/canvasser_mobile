@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "latest_version": "1.0.3",
+  "version": "1.0.4",
+  "latest_version": "1.0.4",
   "min_version": "1.0.0",
   "min_supported_version": "1.0.0",
   "apk_url": "https://github.com/imamerpi/canvasser_mobile/releases/latest",
@@ -8,8 +8,11 @@
   "force_update": false,
   "force": false,
   "changelog": [
-    "Peningkatan stabilitas aplikasi dan performa UI",
-    "Fitur keranjang pada pembuatan order",
-    "Dukungan mode gelap yang dapat mengikuti pengaturan sistem"
+    "Dukungan integrasi printer thermal ESC/POS (Bluetooth & Jaringan Wifi/LAN)",
+    "Halaman pengaturan printer dan pilihan ukuran kertas (58mm / 80mm)",
+    "Pratinjau struk (receipt preview) sebelum mencetak struk order",
+    "Pembaruan otomatis aplikasi yang lebih lancar",
+    "Peningkatan tampilan UI dengan desain modern berbasis glassmorphism",
+    "Peningkatan performa serta perbaikan bug pada pembuatan sales order dan menu lainnya"
   ]
 }
